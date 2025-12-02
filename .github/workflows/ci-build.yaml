@@ -1,5 +1,6 @@
 name: CI Build
 on:
+  workflow_call:
   push:
     branches:
       - main
