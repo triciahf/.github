@@ -1,0 +1,11 @@
+{
+    "name": "SEN CI Workflow",
+    "description": "SEN workflow template for React projects.",
+    "iconName": "example-icon",
+    "categories": [
+        "sen"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
